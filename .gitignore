@@ -138,3 +138,6 @@ app.*.symbols
 !.vscode/settings.json
 
 .DS_Store
+./meals_app/windows/*
+./meals_app/macos/*
+./meals_app/web/*
